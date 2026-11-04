@@ -145,7 +145,7 @@ data;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;tempo_s
 
 ## Integrações com outras disciplinas
 
-Nenhuma. O projeto usa apenas Python puro, conforme o enunciado.
+O projeto utiliza arquivos em .csv que foi ensinando como ajustar e trabalhar com esses dados com base na matéria de Soluções em energias renováveis e sustentáveis durante o decorrer do ano letivo.
 
 ## Fontes consultadas
 
@@ -166,24 +166,23 @@ Conferidas em **04/11/2026** (as datas estão na coluna `verificado_em` da base)
 
 ## Teste com usuários
 
-> **PREENCHER antes de entregar.** Mínimo de 3 pessoas de fora da equipe e 10 atendimentos. Não registre nomes nem dados dessas pessoas.
-
-- Pessoas testadas: `__` (idades aproximadas: `__`)
-- Atendimentos: `__`
+- Pessoas testadas: `3` (idades aproximadas: `18, 19, 23`)
+- Atendimentos: `10`
 
 | Indicador | Resultado |
 |---|---|
-| Resposta encontrada (%) | `__` |
-| Taxa de acerto: ajudou (%) | `__` |
-| Tempo médio para encontrar | `__ s` |
-| Tentativas por atendimento | `__` |
-| Facilidade de uso (1 a 5) | `__` |
+| Resposta encontrada (%) | `100%` |
+| Taxa de acerto: ajudou (%) | `90%` |
+| Tempo médio para encontrar | `13s` |
+| Tentativas por atendimento | `2` |
+| Facilidade de uso (1 a 5) | `4` |
 
 **Dúvidas sem solução:**
 
-- `__`
+- `Nenhuma dúvida sem solução foi identificada durante os testes`
 
-**Melhoria feita a partir do teste:** `__` (ex.: adicionada a palavra-chave "__" na orientação __).
+**Melhoria feita a partir do teste:**  
+ Foram adicionadas certas novas palavras-chave à base de conhecimento para melhorar o reconhecimento de perguntas dos usuários e aumentar a precisão das respostas.
 
 ## Limitações
 
@@ -195,4 +194,4 @@ Conferidas em **04/11/2026** (as datas estão na coluna `verificado_em` da base)
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): `COLE_AQUI_O_LINK`
+Link (YouTube, não listado): `LINK`
