@@ -194,4 +194,4 @@ Conferidas em **04/11/2026** (as datas estão na coluna `verificado_em` da base)
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): `LINK`
+[Vídeo Youtube](https://youtu.be/Qn3Vjxa2mKc) 
